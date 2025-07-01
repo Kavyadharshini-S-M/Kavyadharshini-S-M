@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kavyadharshini-S-M
 - 👀 I’m interested in ... being a nerd
-- 🌱 I’m currently learning ... web development
-- 💞️ I’m looking for ... internships
-- 📫 How to reach me ... smkavyadharshini@gmail.com
+- 🌱 I’m currently learning ... I AM BUILDING BRICK BY BRICK
+- 💞️ I’m looking for ... internships,collab
+- 📫 How to reach me ... ping me  on dharshi.kavya21@gmail.com
 - ⚡ Fun fact: ... you lose your grip and then you slip into a masterpiece
 
 <!---
