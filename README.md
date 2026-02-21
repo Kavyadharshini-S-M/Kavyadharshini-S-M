@@ -1,4 +1,4 @@
-# Hi, I'm Jarvis 👋
+# Hi, I'm Kavyadharshini S M 👋
 
 I'm a 3rd-year engineering student focused on Data Science and DSA.
 Currently preparing for MAANG-level interviews.
