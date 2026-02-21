@@ -1,1 +1,18 @@
-[![Kavyadharshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavyadharshini-S-M)](https://github.com/Kavyadharshini-S-M/github-readme-stats)
+# Hi, I'm Kavyadharshini S M 👋
+
+I'm a 3rd-year engineering student focused on Data Science and DSA.
+Currently preparing for MAANG-level interviews.
+
+## What I'm working on
+- DSA patterns (arrays, sliding window, binary search)
+- Python for data engineering and ETL
+- Small projects to solve real-life problems
+
+## Tech I use
+- Python, Java, C++
+- SQL, Git, Linux
+- Learning: Spark, Airflow
+
+## Goals
+- Crack product-based company interviews
+- Build systems, not just scripts
