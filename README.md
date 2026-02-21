@@ -1,18 +1,11 @@
-# Hi, I'm Kavyadharshini S M 👋
+### Hi there 👋, Kavyadharshini S M here
+#### A Computer Science Engineering Student
+Curious about data, systems, and why things work
+Python • DSA • Learning every day
 
-I'm a 3rd-year engineering student focused on Data Science and DSA.
-Currently preparing for MAANG-level interviews.
+Skills: Python, Java, C++, DSA, SQL, Git, Linux, Data Analysis, Problem Solving
 
-## What I'm working on
-- DSA patterns (arrays, sliding window, binary search)
-- Python for data engineering and ETL
-- Small projects to solve real-life problems
 
-## Tech I use
-- Python, Java, C++
-- SQL, Git, Linux
-- Learning: Spark, Airflow
 
-## Goals
-- Crack product-based company interviews
-- Build systems, not just scripts
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Kavyadharshini-S-M)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/kavyadharshini-s-m-a03505293/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/Kavyadharshini-S-M/)  
+
